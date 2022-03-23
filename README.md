@@ -1,5 +1,5 @@
 <h2> Hey there! I'm ngotrithu 👋</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
