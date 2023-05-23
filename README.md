@@ -5,9 +5,9 @@
 
 - 🔭 &nbsp; I have a strong interest in AI and ML applications (such as finance, economy, hi-tech and bio-tech)
 - 🎓 &nbsp; I’m currently learning Deep Learning
-- 🥅 &nbsp; 2022 Goals: Working on more DS Projects, NLP Projects
+- 🥅 &nbsp; 2023 Goals: Working on more DS Projects, NLP Projects
 - ✍️ &nbsp; I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and NLP case studies and projects!
-- 💡 &nbsp; Ask me about Data Science and Machine Learning
+- 💡 &nbsp; Ask me about Data Science, Machine Learning and NLP
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 <br>
 
